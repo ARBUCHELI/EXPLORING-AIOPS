@@ -1,0 +1,5 @@
+# INTRODUCTION
+--------------
+
+Artificial Intelligence for IT OPS.  Adding new functionalities to existing modules and optimize all the computer systems we have around us today.
+
