@@ -1,3 +1,165 @@
 # AIOps Explained
 -----------------
 
+* AIOps Defined
+---------------
+DevOps --> Development Operations
+ITOps  --> IT Operations
+BizOps --> Business Operations
+
+AIOps
+-----
+AIOps combines big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination.  --> Gartner.
+
+A rtificial
+I ntelligence
+
+for 
+
+IT
+
+O perations
+
+- In AIOps, we take existing IT operations, and integrate specialized AI systems that add intelligent data aggregation, signal processing and extraction, and ongoing analylsis.
+
+- The goal of using AIOps is: 
+
+	. Better observability of what's happening within the AI systems.
+	. Optimization and lower cost of running the system.
+	. Better prediction monitoring.
+	. Remediation of issues within the system itself.
+	. Leverages the power of machine learning and AI to improve IT operations.
+	
+
+* How AIOps works in the real world
+-----------------------------------
+
+- The ultimate goal of AIOPs is to automate routine tasks.
+
+	. Mundane operation tasks. --> Freeing up IT personnel to focus on more strategic and high volume activities.
+
+	. Analyzing modern IT infrastructure that generate vast amout of data and the AIOPs can quickly navigate through all those data and find the relevant insights.
+
+	. One of the scenarios would be energy-efficient data center management. --> For decreasing the carbon footprint.
+
+	. Machine Learning monitors the data for anomalies.
+
+- There are two main levels.
+	
+	# First level
+	-------------
+	. Logging and tracing that happens across all services, hardware, software, and there are tons of logs, that have been collected by the IT teams.
+
+	. Look at the logs to identify if there are possible issues happening.
+
+		* This is connected with the system performance.
+
+		* This is connected with the security aspect.
+
+	. Create alerts.
+
+	# Second level
+	--------------
+	. Why the problem could be happening.
+
+	. Identify specific servers or instances.
+
+	. Another field of impact of AIOps is in the intersection between IT operations, and the rest of the enterprise.
+
+	. Assistance for non technical personnel.
+
+	. Assistance is the state of development of AIOps today.
+
+- What's comming up in the future?
+
+	. More power reading all the complex information that is being generated.
+
+	. Summarize information.
+
+	. Looking up to the information stored by the system and check if a solution of a problem already exists.
+
+	. Configure automatically a network Router, configure a network application, configure a switch.
+
+	. Case of AIOPs shoud be treated as an investment inside of organizations.
+
+- Getting the whole organization on board
+	
+	. Knowing where the needs are and finding the right solutions.
+
+	. Quantify those needs.
+
+	. Test the solutions and quantify the metrics.
+
+	. Look at the business as a whole and its priorities.
+
+		. Money saved
+		. Time saved
+		. Resources saved
+		. Revenue brought in
+
+	. Showcase value vs cost to the whole stakeholders.
+
+	. Provide to everyone a holistic picture.
+
+- IMPORTANT IDEAS
+-----------------
+When things go wrong, you need a human in the middle to troubleshoot.
+
+Computers learn what we teach them to do.
+
+We create the architectures, and solutions.
+
+- AIOps
+-------
+Augmentation to human intelligence, not a replacement.
+
+Continuous learning an improvement.
+
+- AI BIAS
+---------
+Historical data may contain biases.
+
+A system configured with biased data may consider that its configuration is normal.
+
+Biases from historical data, can propagate into the AI system, and into the AIOps tools as well.
+
+
+
+	
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
